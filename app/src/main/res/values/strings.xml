@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MidtermTest</string>
+
+    <string name="splash_dev_by">Developed By:</string>
+    <string name="splash_dev_j">Jason J Jamora (20210426)</string>
+    <string name="splash_date">26/10/2022</string>
+
+    <string name="main_btn_it_programme">IT Programme</string>
+    <string name="main_btn_business_programme">Business Programme</string>
+    <string name="main_btn_gallery">Gallery</string>
+
+    <string name="programme_id">ID</string>
+    <string name="programme_course_name">Course Name</string>
+    <string name="programme_credit_hours">Credit Hours</string>
+</resources>
